@@ -10,7 +10,7 @@ namespace PhotoSharing.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "eXcite 2014";
 
             return View();
         }

@@ -1,4 +1,8 @@
 eXcite2014
-==========
+==========================
+** Repository **
+==========================
+eXcite 2014
+==========================
+** Software Development **
 
-Repository for eXcite 2014 project "Software Development"
